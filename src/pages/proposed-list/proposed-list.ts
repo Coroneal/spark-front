@@ -24,8 +24,8 @@ export interface ActionSheetButton {
 };
 
 @Component({
-  selector: 'page-speaker-list',
-  templateUrl: 'speaker-list.html'
+  selector: 'page-proposed-list',
+  templateUrl: 'proposed-list.html'
 })
 export class SpeakerListPage {
   actionSheet: ActionSheet;

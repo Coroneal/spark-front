@@ -154,7 +154,7 @@ ionic-conference-app/
 │    │    │
 │    │    │── speaker-list/              * Speakers tab page
 │    │    │    ├── speaker-list.html     * SpeakerListPage template
-│    │    │    └── speaker-list.ts       * SpeakerListPage code
+│    │    │    └── proposed-list.ts       * SpeakerListPage code
 │    │    │    └── speaker-list.scss     * SpeakerListPage stylesheet
 |    |    |
 │    │    │── support/                   * Support page
